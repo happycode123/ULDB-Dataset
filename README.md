@@ -45,5 +45,5 @@ ${DATASET_ROOT}/ULDB_dataset
 ## Download (coming soon)
 <br>
 
-<div align="right"> [Updated in 2023-11-22] </div>
+<div align="right"> [Updated on 2023-11-22] </div>
 
