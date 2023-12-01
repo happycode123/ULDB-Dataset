@@ -1,5 +1,5 @@
 ﻿# <div align="center"> ULDB Dataset</div>
-The ULDB dataset is **the first light source image dataset** in the field of underwater wireless optical communication.<br>
+The ULDB dataset is **the first light source image dataset** in the field of underwater wireless optical communication. <br>
 
 ## Introduction
 The camera-assisted active alignment system is an important solution for achieving link alignment between underwater wireless optical communication **(UWOC)** terminals. 
@@ -45,5 +45,5 @@ ${DATASET_ROOT}/ULDB_dataset
 ## Download (coming soon)
 <br>
 
-<div align="right"> [Updated on 2023-11-22] </div>
+<div align="right"> [Created on 2023-11-22, Updated on 2023-12-01] </div>
 
