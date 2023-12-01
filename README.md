@@ -28,19 +28,6 @@ Some details about the ULDB dataset are as follows:
 |Light spot region annotations	|1900	|
 |Light source annotations	|1849	|
 
-The annotations of the ULDB dataset follow the COCO format. 
-The directory tree looks like as follows:
-```
-${DATASET_ROOT}/ULDB_dataset
-├── images
-│   ├── 1.jpg
-│   ├── 2.jpg
-│   ├── ... (all images)
-│   └── n.jpg
-├── test.json
-├── train.json
-└── val.json
-````
 
 ## Download (coming soon)
 <br>
